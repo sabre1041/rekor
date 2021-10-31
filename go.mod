@@ -40,7 +40,7 @@ require (
 	go.uber.org/zap v1.17.0
 	gocloud.dev v0.23.0
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
-	golang.org/x/mod v0.4.2
+	golang.org/x/mod v0.5.1
 	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
