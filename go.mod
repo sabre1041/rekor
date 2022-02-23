@@ -10,12 +10,12 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-openapi/errors v0.20.0
-	github.com/go-openapi/loads v0.20.2
+	github.com/go-openapi/loads v0.21.1
 	github.com/go-openapi/runtime v0.19.29
-	github.com/go-openapi/spec v0.20.3
-	github.com/go-openapi/strfmt v0.20.1
-	github.com/go-openapi/swag v0.19.15
-	github.com/go-openapi/validate v0.20.2
+	github.com/go-openapi/spec v0.20.4
+	github.com/go-openapi/strfmt v0.21.1
+	github.com/go-openapi/swag v0.21.1
+	github.com/go-openapi/validate v0.21.0
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/google/go-cmp v0.5.6
 	github.com/google/rpmpack v0.0.0-20210107155803-d6befbf05148
